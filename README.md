@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
