@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0169-majority-element) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3663-find-the-least-frequent-digit) |
 ## Bit Manipulation
 |  |
@@ -34,9 +35,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0169-majority-element) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3663-find-the-least-frequent-digit) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0169-majority-element) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3663-find-the-least-frequent-digit) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
