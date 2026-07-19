@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0169-majority-element) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3663-find-the-least-frequent-digit) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0066-plus-one) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3663-find-the-least-frequent-digit) |
 ## Number Theory
