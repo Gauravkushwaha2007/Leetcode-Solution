@@ -19,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0268-missing-number) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3663-find-the-least-frequent-digit) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3663-find-the-least-frequent-digit) |
 ## Number Theory
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0268-missing-number) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3663-find-the-least-frequent-digit) |
 ## Counting
 |  |
@@ -52,4 +56,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
