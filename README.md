@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
