@@ -1,0 +1,36 @@
+class Solution {
+public:
+    bool canPlaceFlowers(vector<int>& flowerbed, int n) {
+        
+        for( int i=0; i< flowerbed.size(); i++){
+            if(flowerbed[i] == 0 ){
+
+                if( flowerbed.size() == 1 ){
+                    return true;
+                }
+                if( i == 0 && i+1 < flowerbed.size() && flowerbed[i+1] == 0 ){ 
+                    flowerbed[i] = 1;
+                    n--;
+                }
+                if( i-1 >=0 && flowerbed[i-1] == 0 && i+1 < flowerbed.size() && flowerbed[i+1] == 0){
+                    flowerbed[i] = 1;
+                    n--;
+                }
+                if( i == flowerbed.size()-1 && flowerbed[i-1] == 0){
+                    flowerbed[i] = 1;
+                    n--;
+                }
+            }
+
+            if( n <= 0){
+                return true;
+            }
+
+        }
+        return false;
+    }
+};
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
