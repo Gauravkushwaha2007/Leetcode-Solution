@@ -8,15 +8,15 @@ public:
                 if( flowerbed.size() == 1 ){
                     return true;
                 }
-                if( i == 0 && i+1 < flowerbed.size() && flowerbed[i+1] == 0 ){ 
+                else if( i == 0 && i+1 < flowerbed.size() && flowerbed[i+1] == 0 ){ 
                     flowerbed[i] = 1;
                     n--;
                 }
-                if( i-1 >=0 && flowerbed[i-1] == 0 && i+1 < flowerbed.size() && flowerbed[i+1] == 0){
+                else if( i-1 >=0 && flowerbed[i-1] == 0 && i+1 < flowerbed.size() && flowerbed[i+1] == 0){
                     flowerbed[i] = 1;
                     n--;
                 }
-                if( i == flowerbed.size()-1 && flowerbed[i-1] == 0){
+                else if( i == flowerbed.size()-1 && flowerbed[i-1] == 0){
                     flowerbed[i] = 1;
                     n--;
                 }
