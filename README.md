@@ -35,6 +35,7 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,10 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0002-add-two-numbers) |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
