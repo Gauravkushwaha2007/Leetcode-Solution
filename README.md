@@ -30,6 +30,7 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0283-move-zeroes) |
 ## String
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0066-plus-one](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0066-plus-one) |
 | [0136-single-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0136-single-number) |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -60,6 +62,7 @@ The solutions are automatically organized by LeetCode topics below.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
