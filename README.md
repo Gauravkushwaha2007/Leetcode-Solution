@@ -44,6 +44,7 @@ The solutions are automatically organized by LeetCode topics below.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0066-plus-one](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0066-plus-one) |
 | [0136-single-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0136-single-number) |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
@@ -84,6 +85,7 @@ The solutions are automatically organized by LeetCode topics below.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -93,6 +95,7 @@ The solutions are automatically organized by LeetCode topics below.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Linked List
