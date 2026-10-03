@@ -32,6 +32,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0189-rotate-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
 ## Bit Manipulation
@@ -76,6 +78,7 @@ The solutions are automatically organized by LeetCode topics below.
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
 ## Counting
 | Problem Name | Difficulty |
@@ -92,11 +95,13 @@ The solutions are automatically organized by LeetCode topics below.
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
