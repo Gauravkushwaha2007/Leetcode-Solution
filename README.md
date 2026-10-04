@@ -54,6 +54,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0283-move-zeroes](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -115,6 +116,10 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
