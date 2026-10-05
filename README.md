@@ -16,6 +16,10 @@ This repository contains my solutions to LeetCode problems that I solve while pr
 - 📈 Maintain a consistent coding practice
 - 🎯 Prepare for coding interviews and contests
 
+## 📝 Practice Log
+
+- **October 5, 2026:** Continued DSA practice and worked through a challenging problem. The problem is still in progress, so no solution was added yet.
+
 ## 🛠️ Language
 
 - **C++** 💙
