@@ -45,6 +45,7 @@ The solutions are automatically organized by LeetCode topics below.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0066-plus-one](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0066-plus-one) |
 | [0136-single-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0136-single-number) |
@@ -77,6 +78,7 @@ The solutions are automatically organized by LeetCode topics below.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
