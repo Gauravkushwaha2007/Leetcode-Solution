@@ -60,6 +60,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -126,6 +127,10 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
