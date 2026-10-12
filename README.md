@@ -131,6 +131,10 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
