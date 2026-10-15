@@ -55,6 +55,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0066-plus-one](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0136-single-number) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -113,6 +114,7 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
