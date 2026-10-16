@@ -65,6 +65,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
+| [0896-monotonic-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0896-monotonic-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
 ## Bit Manipulation
