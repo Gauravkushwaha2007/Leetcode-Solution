@@ -70,6 +70,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0896-monotonic-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0941-valid-mountain-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -115,6 +116,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
