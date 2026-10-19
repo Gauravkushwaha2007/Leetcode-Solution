@@ -85,6 +85,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +135,7 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
