@@ -38,11 +38,13 @@ The solutions are automatically organized by LeetCode topics below.
 | [0189-rotate-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
