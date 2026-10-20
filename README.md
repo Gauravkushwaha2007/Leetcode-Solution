@@ -70,6 +70,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0896-monotonic-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0941-valid-mountain-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
 ## Bit Manipulation
@@ -138,6 +139,7 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
