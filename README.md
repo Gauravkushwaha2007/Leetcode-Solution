@@ -67,6 +67,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0485-max-consecutive-ones](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 | [0724-find-pivot-index](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 | [0896-monotonic-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0941-valid-mountain-array/) | Easy |
@@ -80,6 +81,7 @@ The solutions are automatically organized by LeetCode topics below.
 | ------- | ------- |
 | [0136-single-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0136-single-number) |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0645-set-mismatch](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
 ## Counting
 | Problem Name | Difficulty |
@@ -119,6 +122,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0645-set-mismatch](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
