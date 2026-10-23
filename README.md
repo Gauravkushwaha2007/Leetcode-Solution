@@ -61,6 +61,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0283-move-zeroes) |
@@ -102,6 +103,7 @@ The solutions are automatically organized by LeetCode topics below.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0645-set-mismatch](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
@@ -121,6 +123,7 @@ The solutions are automatically organized by LeetCode topics below.
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0645-set-mismatch](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
