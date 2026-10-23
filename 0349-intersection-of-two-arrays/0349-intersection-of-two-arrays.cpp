@@ -8,7 +8,8 @@ public:
             s1.insert(x);
         }
         for (int i = 0; i< nums2.size(); i++ ) {
-            if(s1.find(nums2[i]) != s1.end() && *(s1.find(nums2[i])) == nums2[i]) {
+            // if(s1.find(nums2[i]) != s1.end() && *(s1.find(nums2[i])) == nums2[i]) {
+            if(s1.find(nums2[i]) != s1.end() ){
                 ans.push_back(nums2[i]);
                 s1.erase(nums2[i]);
             }
