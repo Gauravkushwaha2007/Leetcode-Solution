@@ -2,27 +2,46 @@ class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
         vector<int> ans;
-        sort(nums1.begin(), nums1.end());
-        sort(nums2.begin(), nums2.end());
-        
-        int j = 0;
-        int i = 0;
-        while ( i < nums1.size() && j < nums2.size()) {
-            if ( nums1[i] == nums2[j]  ) {
-                ans.push_back(nums1[i]);
-                while(i < nums1.size()-1 && nums1[i] == nums1[i+1]) {i++;}
-                while(j < nums2.size()-1 && nums2[j] == nums2[j+1]) {j++;}
-                i++;
-                j++;
-            }
-            else if (nums1[i] < nums2[j]) {
-                i++;
-            }
-            else{
-                j++;
+        unordered_set<int> s1;
+
+        for(int x : nums1) {
+            s1.insert(x);
+        }
+        for (int i = 0; i< nums2.size(); i++ ) {
+            if(s1.find(nums2[i]) != s1.end() && *(s1.find(nums2[i])) == nums2[i]) {
+                ans.push_back(nums2[i]);
+                s1.erase(nums2[i]);
             }
         }
-
         return ans;
     }
 };
+
+// class Solution {
+// public:
+//     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
+//         vector<int> ans;
+//         sort(nums1.begin(), nums1.end());
+//         sort(nums2.begin(), nums2.end());
+        
+//         int j = 0;
+//         int i = 0;
+//         while ( i < nums1.size() && j < nums2.size()) {
+//             if ( nums1[i] == nums2[j]  ) {
+//                 ans.push_back(nums1[i]);
+//                 while(i < nums1.size()-1 && nums1[i] == nums1[i+1]) {i++;}
+//                 while(j < nums2.size()-1 && nums2[j] == nums2[j+1]) {j++;}
+//                 i++;
+//                 j++;
+//             }
+//             else if (nums1[i] < nums2[j]) {
+//                 i++;
+//             }
+//             else{
+//                 j++;
+//             }
+//         }
+
+//         return ans;
+//     }
+// };
