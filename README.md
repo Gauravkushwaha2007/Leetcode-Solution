@@ -77,6 +77,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [1470-shuffle-the-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0645-set-mismatch](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
 ## Counting
 | Problem Name | Difficulty |
