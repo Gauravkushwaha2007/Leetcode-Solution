@@ -36,6 +36,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -92,6 +93,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0002-add-two-numbers](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
@@ -105,6 +107,7 @@ The solutions are automatically organized by LeetCode topics below.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
+| [0202-happy-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -169,6 +172,10 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
