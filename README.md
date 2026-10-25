@@ -44,6 +44,7 @@ The solutions are automatically organized by LeetCode topics below.
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0268-missing-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0645-set-mismatch](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0645-set-mismatch/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/3663-find-the-least-frequent-digit) |
 ## Counting
