@@ -76,6 +76,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0896-monotonic-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0941-valid-mountain-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -163,6 +164,7 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
