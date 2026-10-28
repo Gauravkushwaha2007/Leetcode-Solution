@@ -59,6 +59,7 @@ The solutions are automatically organized by LeetCode topics below.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
@@ -107,6 +108,7 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0169-majority-element) |
 | [0202-happy-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
@@ -178,6 +180,10 @@ The solutions are automatically organized by LeetCode topics below.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0202-happy-number/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gauravkushwaha2007/Leetcode-Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
 
 ---
