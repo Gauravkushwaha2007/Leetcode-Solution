@@ -1,8 +1,6 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        unordered_set<char> s(ransomNote.begin(), ransomNote.end());
-
         unordered_map<char, int> ransom;
         unordered_map<char, int> magazi;
 
